@@ -10,7 +10,7 @@ During this 15 week period we progresively learned while implementing diferent d
 * [Linear Structures (Phase 2)](https://github.com/tomasdiazservin1/DDoS-Attack-Identifier-BotNet-/blob/main/RetoAvance2.cpp): During Phase 2 we were able to save arriving/departing connections from each computer of the internal network and save them inside of a list/stack.
 * [Hashing (Phase 3)](https://github.com/tomasdiazservin1/DDoS-Attack-Identifier-BotNet-/blob/main/RetoAvance3.cpp): During Phase 3 we used dictionaries and sets to order arriving/departing connections by IP. At this point we also noticed the abnormal domain 916t95wtls6d3sie7ew6.net and took into account the the computer with username kathleen.reto.com.
 * [BST (Phase 4)](https://github.com/tomasdiazservin1/DDoS-Attack-Identifier-BotNet-/blob/main/RetoAvance4.cpp): During Phase 4 we used Binary Search Trees (BST) to find the top 5 departing conections from the internal network and took into account the domain craigslist.com.
-* [Graphs (Phase 5)](https://github.com/tomasdiazservin1/DDoS-Attack-Identifier-BotNet-/blob/main/RetoAvance5.cpp): During Phase 5 we used graphs to analyze our data in previous phases.
+* [Graphs (Phase 5)](https://github.com/tomasdiazservin1/DDoS-Attack-Identifier-BotNet-/blob/main/RetoAvance5.cpp): During Phase 5 we used graphs to analyze connections between computers that are a part of the internal network.
 
 
 ## Results
