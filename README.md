@@ -21,5 +21,6 @@ After the results given by our development, we were able to determine the follow
 * All 31 computers in the office connect to the computer which was first infected (kathleen.reto.com).
 * Our conclusion is that the attack to this network is actually a recollection of users to then use in a DDOS attack to the site craigslist.com. This can be clearly seen on the 19th of August where, for the first and only time registred in the database, craigslist.com appears in the top 5 conections per day. This gives us the impresion that the attacker wanted to overwhelm craigslist's server using this network's computers found using a ping sweep which were then controled by the insturctions distributed by the attacker's server to the first computer infected (kathleen.reto.com).
 
-
+## Presentation
+***
 ![alt text](https://github.com/tomasdiazservin1/DDoS-Attack-Identifier-BotNet-/blob/main/Reto%206.png)
